@@ -1,5 +1,11 @@
 # Modbo 5.0 Firmware and Flash Repair Guide
 
+[![Watch the video](https://img.youtube.com/vi/Fm0x56Zls0I/maxresdefault.jpg)](https://youtu.be/Fm0x56Zls0I)
+
+> 🎥 **Video Walkthrough:**  
+> [Watch on YouTube](https://youtu.be/Fm0x56Zls0I)
+
+
 > ⚠️ **Disclaimer:**  
 > This is an advanced procedure. I am **not responsible** for any damage to consoles or modchips. Proceed **at your own risk.**
 
